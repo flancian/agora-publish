@@ -1,0 +1,6 @@
+#!/bin/bash
+# This assumes that '../agora' exists and is the Agora repo.
+echo "syncing garden -> agora"
+(cd ../agora && util/sync && git push)
+echo "syncing agora -> agora publish"
+util/sync
