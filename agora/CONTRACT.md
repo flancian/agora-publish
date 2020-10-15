@@ -1,3 +1,5 @@
+# CONTRACT
+
 - An Agora is defined by its code of conduct; it is a contract that binds us within its confines. It is of utmost importance for it to be well specified and known by all.
 - When interacting with others, please observe the [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 - Try to be constructive, rational, kind and respectful in all cases.

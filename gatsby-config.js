@@ -4,8 +4,8 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         // basePath: `${__dirname}`,
-        contentPath: `${__dirname}/agora/garden/flancian/`,
-        rootNote: `/index`,
+        contentPath: `${__dirname}/agora/`,
+        rootNote: `/README`,
       },
     },
   ],
